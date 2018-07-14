@@ -2,13 +2,13 @@
 
 # TEAM
 
-	Main Guy: Aaron Barrett
-	Linkedin: https://www.linkedin.com/in/aaron-barrett-05b0b218
+	Main Guy: Linda Barrett
+	Linkedin:
 
 # SITE
 
-	Site Name: Dartographer | One dev's world of Dart and graphics programming
-	Site URL: www.dartographer.com
+	Site Name:
+	Site URL:
 	Language: English
 
 # TECHNOLOGY
