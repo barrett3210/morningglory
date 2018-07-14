@@ -1,0 +1,16 @@
+# humanstxt.org/
+
+# TEAM
+
+	Main Guy: Aaron Barrett
+	Linkedin: https://www.linkedin.com/in/aaron-barrett-05b0b218
+
+# SITE
+
+	Site Name: Dartographer | One dev's world of Dart and graphics programming
+	Site URL: www.dartographer.com
+	Language: English
+
+# TECHNOLOGY
+
+	HTML5, CSS3, JS, JEKYLL, DART
