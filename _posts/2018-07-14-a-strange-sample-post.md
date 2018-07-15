@@ -46,4 +46,4 @@ And we can make a list:
 * below
 
 And now for an image:
-![morningglory](/images/morningglory.PNG)
+![morningglory]({{ site.baseurl }}/images/morningglory.PNG)
