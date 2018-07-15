@@ -17,7 +17,7 @@ title: morningglory
 author: Linda Barrett
 description: "A nice look at whatever comes to mind"
 baseurl: "/morningglory"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: EST
 exclude:
